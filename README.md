@@ -16,5 +16,5 @@ A beautiful, premium, and fully responsive web-based collage maker built entirel
 
 ## 🚀 Getting Started
 
- **Use now**
+ **Use now** https://rlvidanapathirana.github.io/Collage_Craft/
    
